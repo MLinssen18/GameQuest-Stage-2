@@ -1,0 +1,11 @@
+Model Information:
+* title:	IllumiNations: World Showcase Torch
+* source:	https://sketchfab.com/3d-models/illuminations-world-showcase-torch-7a6e3bcbe039441899107d75775b7999
+* author:	WED Designs (https://sketchfab.com/wed-designs)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "IllumiNations: World Showcase Torch" (https://sketchfab.com/3d-models/illuminations-world-showcase-torch-7a6e3bcbe039441899107d75775b7999) by WED Designs (https://sketchfab.com/wed-designs) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

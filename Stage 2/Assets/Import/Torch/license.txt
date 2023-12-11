@@ -1,0 +1,11 @@
+Model Information:
+* title:	Torch
+* source:	https://sketchfab.com/3d-models/torch-5244ce72d3434d3fb60b9559ece6fef0
+* author:	Ghosty (https://sketchfab.com/ruinraone)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Torch" (https://sketchfab.com/3d-models/torch-5244ce72d3434d3fb60b9559ece6fef0) by Ghosty (https://sketchfab.com/ruinraone) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

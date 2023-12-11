@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stone Hut Scan 4k : French Countryside Photoscan
+* source:	https://sketchfab.com/3d-models/stone-hut-scan-4k-french-countryside-photoscan-49c2a74c97e3453e8cfac9b869cc9e48
+* author:	NGCND (https://sketchfab.com/NGCND)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stone Hut Scan 4k : French Countryside Photoscan" (https://sketchfab.com/3d-models/stone-hut-scan-4k-french-countryside-photoscan-49c2a74c97e3453e8cfac9b869cc9e48) by NGCND (https://sketchfab.com/NGCND) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

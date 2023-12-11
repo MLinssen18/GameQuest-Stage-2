@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rocks
+* source:	https://sketchfab.com/3d-models/rocks-1c6b8792b44848e0b76e0f1152b1d417
+* author:	DaveTse (https://sketchfab.com/DaveTse)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rocks" (https://sketchfab.com/3d-models/rocks-1c6b8792b44848e0b76e0f1152b1d417) by DaveTse (https://sketchfab.com/DaveTse) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

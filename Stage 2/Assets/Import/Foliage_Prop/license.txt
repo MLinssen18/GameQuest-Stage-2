@@ -1,0 +1,11 @@
+Model Information:
+* title:	Foliage Prop
+* source:	https://sketchfab.com/3d-models/foliage-prop-2bc925aed62345498a99d2ad58519f44
+* author:	jrberry (https://sketchfab.com/jrberry)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Foliage Prop" (https://sketchfab.com/3d-models/foliage-prop-2bc925aed62345498a99d2ad58519f44) by jrberry (https://sketchfab.com/jrberry) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

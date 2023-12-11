@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cave in Lancieux
+* source:	https://sketchfab.com/3d-models/cave-in-lancieux-308c012aacd648feb169b1fbf8003035
+* author:	alban (https://sketchfab.com/alban)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cave in Lancieux" (https://sketchfab.com/3d-models/cave-in-lancieux-308c012aacd648feb169b1fbf8003035) by alban (https://sketchfab.com/alban) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lupa / magnifying glass
+* source:	https://sketchfab.com/3d-models/lupa-magnifying-glass-cbc1e9af3af443d49132e96b7bc76f79
+* author:	wagion (https://sketchfab.com/wagion)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lupa / magnifying glass" (https://sketchfab.com/3d-models/lupa-magnifying-glass-cbc1e9af3af443d49132e96b7bc76f79) by wagion (https://sketchfab.com/wagion) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
